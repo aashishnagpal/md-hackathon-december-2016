@@ -1,2 +1,2 @@
 # md-hackathon-december-2016
-Hackathon @MD; Conducted: December 2016
+Hackathon @ModernDeveloper; Conducted: December 2016
